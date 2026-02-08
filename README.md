@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zara
-- 📚 I am currently a Gr.11 Highschool Student
-- 👀 I’m interested in Chemical & Bioengineering
+- 📚 I am a Year 1 Nursing Student
+- 👀 I’m interested in Healthcare and Research
 - 🌱 I’m currently learning to code more advanced projects using Python
 - 💞️ I’m looking to collaborate on any games or recreational projects
 - 📫 How to reach me: zarafahmed09@gmail.com 
